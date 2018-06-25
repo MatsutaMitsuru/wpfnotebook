@@ -1,0 +1,15 @@
+C:\Users\matsu\source\repos\GanLinLian\GanLinLian\obj\Debug\GanLinLian.csprojResolveAssemblyReference.cache
+C:\Users\matsu\source\repos\GanLinLian\GanLinLian\obj\Debug\MainWindow.g.cs
+C:\Users\matsu\source\repos\GanLinLian\GanLinLian\obj\Debug\App.g.cs
+C:\Users\matsu\source\repos\GanLinLian\GanLinLian\obj\Debug\GanLinLian_MarkupCompile.cache
+C:\Users\matsu\source\repos\GanLinLian\GanLinLian\obj\Debug\GanLinLian_MarkupCompile.lref
+C:\Users\matsu\source\repos\GanLinLian\GanLinLian\bin\Debug\GanLinLian.exe.config
+C:\Users\matsu\source\repos\GanLinLian\GanLinLian\bin\Debug\GanLinLian.exe
+C:\Users\matsu\source\repos\GanLinLian\GanLinLian\bin\Debug\GanLinLian.pdb
+C:\Users\matsu\source\repos\GanLinLian\GanLinLian\obj\Debug\MainWindow.baml
+C:\Users\matsu\source\repos\GanLinLian\GanLinLian\obj\Debug\GanLinLian.g.resources
+C:\Users\matsu\source\repos\GanLinLian\GanLinLian\obj\Debug\GanLinLian.Properties.Resources.resources
+C:\Users\matsu\source\repos\GanLinLian\GanLinLian\obj\Debug\GanLinLian.csproj.GenerateResource.Cache
+C:\Users\matsu\source\repos\GanLinLian\GanLinLian\obj\Debug\GanLinLian.csproj.CoreCompileInputs.cache
+C:\Users\matsu\source\repos\GanLinLian\GanLinLian\obj\Debug\GanLinLian.exe
+C:\Users\matsu\source\repos\GanLinLian\GanLinLian\obj\Debug\GanLinLian.pdb
